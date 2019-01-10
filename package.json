@@ -1,0 +1,14 @@
+{
+  "name": "carrier_direct",
+  "version": "1.0.0",
+  "description": "Interact with carrier web services directly.",
+  "main": "carrier_direct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
